@@ -19,6 +19,7 @@ public class hello {
         System.out.print("Hola Mundo");
         System.err.println("Hola Java");
         System.out.print("Hola Developer");
+        System.out.print("Hola tu");
     }
     
 }
